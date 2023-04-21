@@ -1,0 +1,24 @@
+
+
+{
+	"songs": [
+		["Angelic Might", "angelic-might", [0, 51, 255]],
+		["Hyperdeath", "hyperdeath", [0, 51, 255]]
+	],
+
+	"weekCharacters": [
+		"v1",
+		"v1",
+		"v1"
+	],
+	"weekBackground": "halloween",
+	"requiredPoints": 1000,
+	"storyName": "BARS ARE FUEL",
+	"weekBefore": "tutorial",
+	"weekName": "Week One",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"numSongs": 3
+}

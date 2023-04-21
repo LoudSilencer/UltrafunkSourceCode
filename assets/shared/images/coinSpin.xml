@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coinSpin.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CoinSpin0000" x="30" y="30" width="130" height="130"/>
+	<SubTexture name="CoinSpin0001" x="220" y="30" width="130" height="130"/>
+	<SubTexture name="CoinSpin0002" x="30" y="220" width="130" height="130"/>
+	<SubTexture name="CoinSpin0003" x="220" y="220" width="130" height="130"/>
+</TextureAtlas>

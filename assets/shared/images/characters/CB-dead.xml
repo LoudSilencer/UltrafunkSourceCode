@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CB-dead.png">
+<SubTexture name="firstDeath0000" x="0" y="0" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0001" x="820" y="0" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0002" x="0" y="820" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0003" x="820" y="820" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0004" x="1640" y="0" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0005" x="1640" y="820" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0006" x="0" y="1640" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0007" x="820" y="1640" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0008" x="1640" y="1640" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0009" x="2460" y="0" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0010" x="2460" y="820" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0011" x="2460" y="1640" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0012" x="0" y="2460" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0013" x="820" y="2460" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0014" x="1640" y="2460" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0015" x="2460" y="2460" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0016" x="3280" y="0" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0017" x="3280" y="820" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0018" x="3280" y="1640" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0019" x="3280" y="2460" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0020" x="0" y="3280" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="firstDeath0021" x="820" y="3280" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="deathLoop0000" x="1640" y="3280" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="deathLoop0001" x="1640" y="3280" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="deathLoop0002" x="2460" y="3280" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="deathLoop0003" x="2460" y="3280" width="820" height="820" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

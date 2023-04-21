@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				330
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				140,
+				330
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				140,
+				330
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [
+				1,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				140,
+				330
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				140,
+				330
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CB-old",
+	"position": [
+		-10,
+		270
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		220,
+		-140
+	],
+	"sing_duration": 4.99999999999999,
+	"scale": 1.1
+}

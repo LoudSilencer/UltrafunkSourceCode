@@ -1,0 +1,25 @@
+
+
+{
+	"songs": [
+		["Flesh Prison", "flesh-prison", [255, 0, 0]],
+		["Risen", "risen", [255, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"v1",
+		"v1",
+		"v1"
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "P1",
+	"weekBefore": "week1",
+	"weekName": "P1",
+	"requiredPoints": 7500,
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"numSongs": 3
+}

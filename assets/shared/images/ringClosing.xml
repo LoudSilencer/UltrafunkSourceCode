@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ringClosing.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ring0000" x="30" y="30" width="303" height="303"/>
+	<SubTexture name="Ring0001" x="393" y="30" width="295" height="295" frameX="-5" frameY="-6" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0002" x="748" y="30" width="288" height="290" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0003" x="1096" y="30" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0004" x="1444" y="30" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0005" x="30" y="393" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0006" x="378" y="393" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0007" x="726" y="393" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0008" x="1074" y="393" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0009" x="1422" y="393" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0010" x="30" y="741" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0011" x="378" y="741" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0012" x="726" y="741" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0013" x="1074" y="741" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0014" x="1422" y="741" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0015" x="30" y="1089" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0016" x="378" y="1089" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0017" x="726" y="1089" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0018" x="1074" y="1089" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0019" x="1422" y="1089" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0020" x="30" y="1437" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0021" x="378" y="1437" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0022" x="726" y="1437" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+	<SubTexture name="Ring0023" x="726" y="1437" width="288" height="288" frameX="-8" frameY="-7" frameWidth="303" frameHeight="303"/>
+</TextureAtlas>

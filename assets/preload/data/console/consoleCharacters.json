@@ -1,0 +1,99 @@
+{
+	"assets": [
+		{
+			"characterName": "choirboy",											
+            "description": "A machine whos duty is to sing. Created in a bygone \n era, he now sings alone. He runs off of bars.",
+            "songPrerequisite": "Tutorial"            
+		}
+		, 
+		{
+			"characterName": "picobot",
+            "description": "A machine designed to kill; possessing lots of \ncombat prowess and the ability to recycle other \nmechanical parts for itself.  This particular model \nseems to have lost the tall wire housing that \n most Swordsmachines come with and also carries a \nmodified shotgun with it's titular sword built in.",
+            "songPrerequisite": "Swordsmachine"            
+		}
+		,
+		{
+			"characterName": "flesh prison",
+            "description": "A prison created by the angels to imprison \nKing Minos' soul after being slain by \narchangel Gabriel. It doesn't have a soul nor does \nit think, meaning all of its actions are purely \n reaction based. An organic machine.",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "minos prime",
+            "description": "A physical manifestation of King Minos' soul\n sealed inside his own corpse; being fueled by will, \nrevenge, and unimaginable power. A rare phenomenon.",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "gabriel",
+            "description": "A renowned archangel who is respected and feared,\n achieving his status through his impeccable \nefficiency. Gabriel was also given the title \n'Judge of Hell' after having struck down King Minos\n and thus ending the Lust renaissance.",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "v1",
+            "description": "A machine that runs off of blood. You already \n know who this is. He has a need for speed, and an \n urge to kill. Often mistaken for a security camera.",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "cancer rodent",
+            "description": "THE TRUE OWNER OF ULTRAFUNK. \n DEAR GOD, IT'S BEAUTIFUL. \n AHHHHHHHHHHHHHHHHHHHHHHHH THE POWER",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "ninithegoat",
+            "description": "Mod Director for Ultrafunk. :nerd: :horse:",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "inferno",
+            "description": "Lead Artist and Animator for Ultrafunk. \n\nEggs",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "werd",
+            "description": "Asset Manager and Scripter for Ultrafunk. \nThe cool FX is all him.",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "boxofrocks",
+            "description": "Lead Coder and Musician. Wins at uno constantly. \nHorse react this man.",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "something wicked",
+            "description": "",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "matt$",
+            "description": "Musician for Ultrafunk. Made Hyperdeath. \nCool guy.",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "anto",
+            "description": "Musician for Ultrafunk. \nLoses at uno constantly.",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "staruri",
+            "description": "Concept artist and vocalist for Ultrafunk. \nSunny open the door now sunny open it now sunny open the door now you will open this door",
+            "songPrerequisite": "Hyperdeath"            
+		}
+		,
+		{
+			"characterName": "trains",
+            "description": "Charter for Ultrafunk. Also loses at uno constantly.",
+            "songPrerequisite": "Hyperdeath"            
+		}
+	]
+}

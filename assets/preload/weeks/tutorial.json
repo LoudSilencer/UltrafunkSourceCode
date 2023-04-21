@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Hymn", "gf", [255, 189, 0]],
+		["Swordsmachine", "gf", [255, 189, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "The Tutorial",
+	"startUnlocked": true,
+	"requiredPoints": 0,
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
